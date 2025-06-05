@@ -1,2 +1,10 @@
-# Alien-1.3.7-mc1.21.1
-如果你发现源码存在bug，欢迎发送issue。如果是版本升级问题我们会尽快修复，如果是alien自己写不明白那么酌情修复。
+## License
+GNU General Public License v3
+## Credits
+- https://github.com/coltonk9043/Aoba-MC-Hacked-Client
+- https://github.com/qualterz/lookaround
+- https://github.com/Pan4ur/ThunderHack-Recode
+- https://github.com/Ladysnake/Satin
+- https://github.com/MeteorDevelopment/meteor-client
+- https://github.com/cabaletta/baritone
+- https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher
